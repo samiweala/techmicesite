@@ -55,7 +55,35 @@ hr{
     padding-bottom: 40px;
 }
 
-.container .mid-text{
+.container .col-6 #hire{
     margin-top: 10px;
 }
-
+.homeWhiteStrip{
+    height: 6px;
+    width: 47px;
+    margin: 9px 0;
+    background: #fff;
+}
+.bg_white{
+    background: #fff;
+    color: #7a0f7b;
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+    margin-left: 20px;
+}
+.row #image{
+    margin-left: 663px;
+}
+.border-top-gray{
+    padding-top: 2%;
+    text-align: center;
+    border-top: 1px solid #424141;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 30px;
+  }
