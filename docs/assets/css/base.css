@@ -1,0 +1,89 @@
+header{
+    background-color: #7a0f7b;
+}
+
+.bg_black{
+    background-color: black;
+    color: #ffff !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.bg_black .card{
+    color: black !important;
+}
+#course{
+    color: #fff;
+}
+.box{
+    background-color:#000;
+    text-align: center;
+}
+.box-header{ clear: both; height: 69px; margin-bottom: 10px;}
+/* .box-header p{ display: block;} */
+.box-header .left{
+    float: left;
+    width: 30%;
+    background-color: #7a0f7b;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box-header .right{
+    float: right;
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bg_purple{
+    background-color: purple;
+    color: #ffff !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+hr{
+    border-color: #fff;
+    margin-right: 300px;
+    border-width: 5px;
+}
+
+.footer{
+    background-color: gray;
+    color: #ffff !important;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.container .col-6 #hire{
+    margin-top: 10px;
+}
+.homeWhiteStrip{
+    height: 6px;
+    width: 47px;
+    margin: 9px 0;
+    background: #fff;
+}
+.bg_white{
+    background: #fff;
+    color: #7a0f7b;
+    padding-bottom: 1rem !important;
+    padding-top: 1rem !important;
+    margin-left: 20px;
+}
+.row #image{
+    margin-left: 663px;
+}
+.border-top-gray{
+    padding-top: 2%;
+    text-align: center;
+    border-top: 1px solid #424141;
+}
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 30px;
+  }
